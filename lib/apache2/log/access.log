@@ -1,0 +1,2 @@
+10.240.0.88 - - [04/May/2019:09:51:01 +0000] "GET /favicon.ico HTTP/1.1" 404 519 "https://zestyapp-orion555.c9users.io/hello-world.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+10.240.1.220 - - [04/May/2019:09:51:03 +0000] "GET /hello-world.html HTTP/1.1" 200 1017 "https://zestyapp-orion555.c9users.io/hello-world.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
